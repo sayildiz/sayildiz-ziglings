@@ -1,6 +1,6 @@
 me learning zig
 
-- run `nix-shell` to install zig v14 with mitchellh's configs
+- run `nix-shell` to use zig14 with mitchellh's configs
 
 # Ziglings
 
