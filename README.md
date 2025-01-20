@@ -1,5 +1,7 @@
 me learning zig
 
+- run `nix-shell` to install zig v14 with mitchellh's configs
+
 # Ziglings
 
 Welcome to Ziglings! This project contains a series of tiny
